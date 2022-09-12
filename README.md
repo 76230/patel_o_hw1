@@ -1,1 +1,3 @@
-# patel_o_hw1
+#  team super awesome
+
+all about our awesome dev team. we are super awesome
